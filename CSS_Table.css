@@ -1,0 +1,22 @@
+
+table {
+	border: 15px solid silver;
+}
+
+td:hover {
+	background-color: purple;
+	color: black;
+}
+
+tr, th {
+	background-color: black;
+	color: orange;
+}
+
+tr, td {
+	background-color: yellow;
+	color: black;
+	}
+
+	
+	
